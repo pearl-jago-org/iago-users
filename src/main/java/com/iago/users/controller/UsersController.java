@@ -1,4 +1,4 @@
-package com.iago.users;
+package com.iago.users.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
@@ -11,4 +11,3 @@ public class UsersController {
         return "iago-users v1.0.0";
     }
 }
-
