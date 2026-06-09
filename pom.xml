@@ -5,9 +5,9 @@
 
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.iago</groupId>
-    <artifactId>iago-microservice</artifactId>
+    <artifactId>iago-users</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>iago-microservice</name>
+    <name>iago-users</name>
     <description>Microservicio Java Spring Boot para ECS</description>
 
     <parent>
