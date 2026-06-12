@@ -33,7 +33,6 @@
     </dependencyManagement>
 
     <dependencies>
-     <dependencies>
         <!-- Starter web (debe ir aquí, no en dependencyManagement) -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
